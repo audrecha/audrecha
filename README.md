@@ -5,7 +5,7 @@
 -->
 **`ML & Data Analytics Student`**
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Cat coding">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat coding">
 
 I'm a student passionate about Machine Learning and Data Analytics. 
 I love working with data, building models, and constantly learning new things in the AI world.
